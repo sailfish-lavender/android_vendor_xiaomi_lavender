@@ -1814,18 +1814,18 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.constants@2.1 \
     com.quicinc.cne.server@2.0 \
     com.quicinc.cne.server@2.1 \
-    com.quicinc.cne.server@2.2
-#    QtiTelephonyService \
-#    SoterService \
-#    datastatusnotification \
-#    embms \
-#    CNEService \
-#    WfdService \
-#    dpmserviceapp \
-#    ims \
-#    qcrilmsgtunnel \
-#    imssettings \
-#    FingerprintExtensionService \
-#    PowerOffAlarm \
-#    TimeService \
-#    WfdCommon
+    com.quicinc.cne.server@2.2 \
+    QtiTelephonyService \
+    SoterService \
+    datastatusnotification \
+    embms \
+    CNEService \
+    WfdService \
+    dpmserviceapp \
+    ims \
+    qcrilmsgtunnel \
+    imssettings \
+    FingerprintExtensionService \
+    PowerOffAlarm \
+    TimeService \
+    WfdCommon
